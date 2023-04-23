@@ -1,0 +1,11 @@
+#icon i{
+    border: 1px solid white;
+    border-radius: 40px;
+    transition: all 1s;
+}
+
+i:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
